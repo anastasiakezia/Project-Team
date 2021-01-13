@@ -63,7 +63,7 @@ nav a:hover{
 /*----------------- TOP-WRAPPER -------------------*/
 .top-wrapper{
     padding: 180px 0 100px 0;
-    background-image: url(img/bg2.jpg);
+    background-image: url(https://industrywired.com/wp-content/uploads/2020/03/Here_are-Top-10-Emerging-Technologies-Worth-Investing-in-for-2020.jpeg);
     background-size: cover;
     color: #fbc531;
     text-align: center;
@@ -74,7 +74,7 @@ nav a:hover{
     margin-bottom: 10px;
 }
 .top-wrapper p{
-    color: black;
+    color: white;
     opacity: 0.8;
     margin-bottom: 3px;
 }
